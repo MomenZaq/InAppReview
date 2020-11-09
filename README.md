@@ -32,7 +32,9 @@ inAppReviewHelper.reviewAppOnGooglePlay()
 
 ## When will the dialog display?
   1- the app is already on google play
+
   2- and the  user account does not currently have a review for the app
+
   3- the in-app review quota has not already hit
 
 
